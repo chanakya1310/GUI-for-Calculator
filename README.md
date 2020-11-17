@@ -11,6 +11,6 @@ In order to run on local machine:
 
         pip3 install -r requirements.txt
         
-4. Run main.py using:
+4. Run calculator.py using:
     
         python3 calculator.py
