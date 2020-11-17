@@ -13,4 +13,4 @@ In order to run on local machine:
         
 4. Run main.py using:
     
-        python3 main.py
+        python3 calculator.py
